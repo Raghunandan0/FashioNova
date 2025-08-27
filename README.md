@@ -1,4 +1,4 @@
-# 🚀 FashioNova – Fashion E-commerce 
+<img width="1886" height="909" alt="Screenshot 2025-08-27 164804" src="https://github.com/user-attachments/assets/a9d8bf15-c54a-4f6c-aa3b-83f217c0d66c" /># 🚀 FashioNova – Fashion E-commerce 
 
 **FashioNova** is a fully responsive **Myntra-inspired fashion e-commerce homepage** built with **HTML, Tailwind CSS, and Font Awesome**.  
 It demonstrates **modern UI/UX design, responsive layouts, and interactive features**, making it a showcase of front-end development skills.
@@ -62,3 +62,12 @@ It demonstrates **modern UI/UX design, responsive layouts, and interactive featu
 - **JavaScript (optional)** – For slider, menu, and interactivity  
 
 ---
+
+## Screenshot
+<img src="https://github.com/user-attachments/assets/765e5d9e-8e3e-426a-b263-562eebc401e5" width="600" alt="Screenshot" />
+
+
+<img src="https://github.com/user-attachments/assets/6f8f4245-dbb1-41f9-bf0b-b5618d940202" width="600" alt="Screenshot" />
+
+
+
