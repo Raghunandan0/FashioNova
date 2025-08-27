@@ -1,4 +1,4 @@
-# 🚀 FashioNova – Fashion E-commerce Clone
+# 🚀 FashioNova – Fashion E-commerce 
 
 **FashioNova** is a fully responsive **Myntra-inspired fashion e-commerce homepage** built with **HTML, Tailwind CSS, and Font Awesome**.  
 It demonstrates **modern UI/UX design, responsive layouts, and interactive features**, making it a showcase of front-end development skills.
